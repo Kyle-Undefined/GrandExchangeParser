@@ -1,0 +1,15 @@
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\bin\Debug\GrandExchangeParser.exe.manifest
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\bin\Debug\GrandExchangeParser.application
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\bin\Debug\GrandExchangeParser.exe
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\bin\Debug\GrandExchangeParser.pdb
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\bin\Debug\GrandExchangeParser.xml
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\ResolveAssemblyReference.cache
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GrandExchangeParser.Form1.resources
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GrandExchangeParser.Resources.resources
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GenerateResource.read.1.tlog
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GenerateResource.write.1.tlog
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GrandExchangeParser.exe.manifest
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GrandExchangeParser.application
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GrandExchangeParser.exe
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GrandExchangeParser.xml
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\GrandExchangeParserSolution\GrandExchangeParser\obj\x86\Debug\GrandExchangeParser.pdb
